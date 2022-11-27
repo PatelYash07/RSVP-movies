@@ -1,1 +1,6 @@
-# RSVP-movies
+<h1 align="center">RSVP Movies</h1>
+
+<h3> Problem Statement: </h3>
+
+RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.The production company wants to plan their every move analytically based on data and have approached you for help with this new project. 
+
